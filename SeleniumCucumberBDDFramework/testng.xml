@@ -2,6 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Automation Test Report" > <!-- data-provider-thread-count="5" -->
  
+<!-- Test Started... -->
   <test name="Automation Test Report">
     <classes>
       <class name="com.testautomation.TestRunner.TestRunner"/>

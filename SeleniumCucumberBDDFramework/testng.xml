@@ -7,8 +7,9 @@
     <classes>
       <class name="com.testautomation.TestRunner.TestRunner"/>
     </classes>
-  </test> <!-- Test completed-->
+  </test> 
    
+   <!-- Listners implemented in below location -->
   <listeners>
   		<listener class-name="com.testautomation.Listeners.ITestListenerImpl"></listener>
   </listeners>

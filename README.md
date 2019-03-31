@@ -37,3 +37,5 @@ PART15 - https://www.youtube.com/watch?v=5_7d_uROrOY&index=56&list=PLUeDIlio4THE
 PART16 - https://www.youtube.com/watch?v=UK3KTjb61mA&list=PLUeDIlio4THEKL1t1tLBsyB6nsWAJMXOp&index=57
 
 PART17 - https://www.youtube.com/watch?v=KO-9gYYLF8o&list=PLUeDIlio4THEKL1t1tLBsyB6nsWAJMXOp&index=58
+
+PART18 - https://www.youtube.com/watch?v=34v0G76ESMA&list=PLUeDIlio4THEKL1t1tLBsyB6nsWAJMXOp&index=59

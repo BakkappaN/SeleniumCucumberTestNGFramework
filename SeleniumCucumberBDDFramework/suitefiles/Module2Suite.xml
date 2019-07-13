@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Test Report" > <!-- data-provider-thread-count="5" -->
+  
+  <!-- Suite file contains TestRunner location and Testng listner location -->
+  
+<!-- Test Started... -->
+  <test name="Automation Test Report">
+    <classes>
+      <class name="com.testautomation.TestRunner.TestRunner"/>
+    </classes>
+  </test> 
+   
+   <!-- Listners implemented in below location -->
+  <listeners>
+  		<listener class-name="com.testautomation.Listeners.ITestListenerImpl"></listener>
+  </listeners>
+  
+</suite> <!-- Suite -->

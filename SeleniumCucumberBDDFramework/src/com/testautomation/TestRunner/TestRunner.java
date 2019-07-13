@@ -13,11 +13,8 @@ import cucumber.api.testng.*;
 @CucumberOptions (
         features = "./features/"
         ,glue = {"com.testautomation.StepDef"}
-        ,tags = {"@CucumberHooks"}) 
-		/*,plugin= { "pretty",
-                "html:target/site/cucumber-pretty",
-        "json:target/cucumber.json" },
-        monochrome = true)*/
+        ,tags = {"@TestCase1"}
+        ,monochrome = true)
 public class TestRunner {
     private TestNGCucumberRunner testNGCucumberRunner;
     

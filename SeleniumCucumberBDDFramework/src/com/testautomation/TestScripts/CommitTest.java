@@ -10,8 +10,12 @@ public class CommitTest {
 		System.out.println("Testing commit2");
 
 		System.out.println("selenium by bakkappa n");
+
 		
 		System.out.println("selenium with c# by bakkappa n");
+
+
+		System.out.println("TestNG tutorial by bakkappa n");
 
 	}
 
